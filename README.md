@@ -67,7 +67,7 @@ Platform-as-a-service is for developers. That's one of the biggest differences b
 Well, it's a cloud service for developers primarily who want to be able to develop, run, and manage applications in the public cloud. With platform-as-a-service no servers, storage, networking, operating system, middleware or databases are needed. You don't have to install any of those if you're a developer and you want to deploy an application into a platform-as-a-service solution. Examples of platform-as-a-service are Amazon's Elastic Beanstalk, which I'll show you in just a moment, Microsoft Azure App Service, Google App Engine, Cloud Foundry, and Heroku. These are all popular examples of platform-as-a-service solutions.
 
 
-# Lab
+# Lab session
 
 ## Lab 1: Infrastructure-as-a-service
 
